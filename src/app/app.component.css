@@ -1,0 +1,14 @@
+.container {
+    /* width: 500px; */
+    margin: auto;
+    text-align: center;
+}
+.error {
+    color: red;
+    font-size: larger;
+}
+.click {
+    color: blue;
+    transition: 2s linear;
+    font: optional;
+}
